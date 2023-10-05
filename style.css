@@ -1,0 +1,44 @@
+.aa{
+	border-style: solid;
+	border-color: yellow;
+	border-left-width: 2px;
+	border-right-width: 2px;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+}
+
+.aa p{
+	color: green;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+.bb{
+	border-style: solid;
+	border-color: orange;
+	border-left-width: 3px;
+	border-right-width: 3px;
+	border-top-width: 3px;
+	border-bottom-width: 3px;
+}
+
+.bb p{
+	color: red;
+	font-size: 14px;
+	font-family: Arial;
+}
+
+.cc{
+	border-style: solid;
+	border-color: #00ffee;
+	border-left-width: 4px;
+	border-right-width: 4px;
+	border-top-width: 4px;
+	border-bottom-width: 4px;
+}
+
+.cc p{
+	color: blue;
+	font-size: 16px;
+	font-family: Arial;
+}
